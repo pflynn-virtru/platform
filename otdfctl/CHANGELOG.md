@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.32.0](https://github.com/opentdf/platform/compare/otdfctl/v0.31.0...otdfctl/v0.32.0) (2026-04-23)
+
+
+### Features
+
+* **cli:** Print report on failure ([#3365](https://github.com/opentdf/platform/issues/3365)) ([05a4473](https://github.com/opentdf/platform/commit/05a4473cf291e0837f215398b4212244bcfb2210))
+
 ## [0.31.0](https://github.com/opentdf/platform/compare/otdfctl/v0.30.0...otdfctl/v0.31.0) (2026-04-22)
 
 
