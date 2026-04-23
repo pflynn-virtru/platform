@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.15.0](https://github.com/opentdf/platform/compare/service/v0.14.0...service/v0.15.0) (2026-04-23)
+
+
+### Features
+
+* **policy:** add sort support to listkaskeys ([#3344](https://github.com/opentdf/platform/issues/3344)) ([de1fe92](https://github.com/opentdf/platform/commit/de1fe926e306a15ff50fa0042b4fee988b3be1e6))
+
+
+### Bug Fixes
+
+* **deps:** bump github.com/jackc/pgx/v5 from 5.9.0 to 5.9.2 in /service ([#3371](https://github.com/opentdf/platform/issues/3371)) ([ab0974b](https://github.com/opentdf/platform/commit/ab0974b99b8d03608ec603aa391cea506954225b))
+* **deps:** bump github.com/opentdf/platform/lib/identifier from 0.3.0 to 0.4.0 in /service ([#3366](https://github.com/opentdf/platform/issues/3366)) ([4650e9b](https://github.com/opentdf/platform/commit/4650e9b69a3e656df3a191603a5b2bbd0ae640d0))
+
 ## [0.14.0](https://github.com/opentdf/platform/compare/service/v0.13.0...service/v0.14.0) (2026-04-21)
 
 
